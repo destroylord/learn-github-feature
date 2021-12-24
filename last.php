@@ -1,3 +1,4 @@
 <?php
-echo "Last nih"
-; ?>
+    $last = "last";
+    echo $last." nih"; 
+?>
